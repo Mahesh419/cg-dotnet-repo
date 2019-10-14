@@ -11,6 +11,6 @@ phases:
 
   build:
     commands:
-      - dotnet dotnet build
+      - dotnet build
       - dotnet test && cd config && npm install --silent
       - cd node result.js
