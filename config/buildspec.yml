@@ -1,0 +1,13 @@
+version: 0.2
+phases:
+  pre_build:
+    commands:
+      - echo `Restore dependencies`
+      - dotnet restore
+      - dotnet clean
+
+  build:
+    commands:
+      - dotnet dotnet build
+      - dotnet test
+      - cd config && cd node result.js
