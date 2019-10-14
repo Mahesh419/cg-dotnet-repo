@@ -125,11 +125,11 @@
           "dependencies": {
             "Microsoft.AspNetCore.App": {
               "target": "Package",
-              "version": "[2.1.1, )"
+              "version": "(, )"
             },
             "Microsoft.NET.Test.Sdk": {
               "target": "Package",
-              "version": "[15.8.0, )"
+              "version": "(, )"
             },
             "Microsoft.NETCore.App": {
               "suppressParent": "All",
@@ -139,7 +139,7 @@
             },
             "NUnit3TestAdapter": {
               "target": "Package",
-              "version": "[3.10.0, )"
+              "version": "(, )"
             },
             "nunit": {
               "target": "Package",
