@@ -1,0 +1,27 @@
+C:\Users\jayanthal\Source\Repos\DotNetCoreWebApiTest\DotNetCoreWebApiTest\bin\Debug\netcoreapp2.1\DotNetCoreWebApiTest.deps.json
+C:\Users\jayanthal\Source\Repos\DotNetCoreWebApiTest\DotNetCoreWebApiTest\bin\Debug\netcoreapp2.1\DotNetCoreWebApiTest.runtimeconfig.json
+C:\Users\jayanthal\Source\Repos\DotNetCoreWebApiTest\DotNetCoreWebApiTest\bin\Debug\netcoreapp2.1\DotNetCoreWebApiTest.runtimeconfig.dev.json
+C:\Users\jayanthal\Source\Repos\DotNetCoreWebApiTest\DotNetCoreWebApiTest\bin\Debug\netcoreapp2.1\DotNetCoreWebApiTest.dll
+C:\Users\jayanthal\Source\Repos\DotNetCoreWebApiTest\DotNetCoreWebApiTest\bin\Debug\netcoreapp2.1\DotNetCoreWebApiTest.pdb
+C:\Users\jayanthal\Source\Repos\DotNetCoreWebApiTest\DotNetCoreWebApiTest\obj\Debug\netcoreapp2.1\DotNetCoreWebApiTest.csproj.CoreCompileInputs.cache
+C:\Users\jayanthal\Source\Repos\DotNetCoreWebApiTest\DotNetCoreWebApiTest\obj\Debug\netcoreapp2.1\DotNetCoreWebApiTest.RazorAssemblyInfo.cache
+C:\Users\jayanthal\Source\Repos\DotNetCoreWebApiTest\DotNetCoreWebApiTest\obj\Debug\netcoreapp2.1\DotNetCoreWebApiTest.RazorAssemblyInfo.cs
+C:\Users\jayanthal\Source\Repos\DotNetCoreWebApiTest\DotNetCoreWebApiTest\obj\Debug\netcoreapp2.1\DotNetCoreWebApiTest.AssemblyInfoInputs.cache
+C:\Users\jayanthal\Source\Repos\DotNetCoreWebApiTest\DotNetCoreWebApiTest\obj\Debug\netcoreapp2.1\DotNetCoreWebApiTest.AssemblyInfo.cs
+C:\Users\jayanthal\Source\Repos\DotNetCoreWebApiTest\DotNetCoreWebApiTest\obj\Debug\netcoreapp2.1\DotNetCoreWebApiTest.RazorTargetAssemblyInfo.cache
+C:\Users\jayanthal\Source\Repos\DotNetCoreWebApiTest\DotNetCoreWebApiTest\obj\Debug\netcoreapp2.1\DotNetCoreWebApiTest.dll
+C:\Users\jayanthal\Source\Repos\DotNetCoreWebApiTest\DotNetCoreWebApiTest\obj\Debug\netcoreapp2.1\DotNetCoreWebApiTest.pdb
+D:\Coders Glory\test\Sample Templates\DotNetCoreWebApiTest\DotNetCoreWebApiTest\DotNetCoreWebApiTest\bin\Debug\netcoreapp2.1\DotNetCoreWebApiTest.deps.json
+D:\Coders Glory\test\Sample Templates\DotNetCoreWebApiTest\DotNetCoreWebApiTest\DotNetCoreWebApiTest\bin\Debug\netcoreapp2.1\DotNetCoreWebApiTest.runtimeconfig.json
+D:\Coders Glory\test\Sample Templates\DotNetCoreWebApiTest\DotNetCoreWebApiTest\DotNetCoreWebApiTest\bin\Debug\netcoreapp2.1\DotNetCoreWebApiTest.runtimeconfig.dev.json
+D:\Coders Glory\test\Sample Templates\DotNetCoreWebApiTest\DotNetCoreWebApiTest\DotNetCoreWebApiTest\bin\Debug\netcoreapp2.1\DotNetCoreWebApiTest.dll
+D:\Coders Glory\test\Sample Templates\DotNetCoreWebApiTest\DotNetCoreWebApiTest\DotNetCoreWebApiTest\bin\Debug\netcoreapp2.1\DotNetCoreWebApiTest.pdb
+D:\Coders Glory\test\Sample Templates\DotNetCoreWebApiTest\DotNetCoreWebApiTest\DotNetCoreWebApiTest\obj\Debug\netcoreapp2.1\DotNetCoreWebApiTest.csprojAssemblyReference.cache
+D:\Coders Glory\test\Sample Templates\DotNetCoreWebApiTest\DotNetCoreWebApiTest\DotNetCoreWebApiTest\obj\Debug\netcoreapp2.1\DotNetCoreWebApiTest.RazorAssemblyInfo.cache
+D:\Coders Glory\test\Sample Templates\DotNetCoreWebApiTest\DotNetCoreWebApiTest\DotNetCoreWebApiTest\obj\Debug\netcoreapp2.1\DotNetCoreWebApiTest.RazorAssemblyInfo.cs
+D:\Coders Glory\test\Sample Templates\DotNetCoreWebApiTest\DotNetCoreWebApiTest\DotNetCoreWebApiTest\obj\Debug\netcoreapp2.1\DotNetCoreWebApiTest.AssemblyInfoInputs.cache
+D:\Coders Glory\test\Sample Templates\DotNetCoreWebApiTest\DotNetCoreWebApiTest\DotNetCoreWebApiTest\obj\Debug\netcoreapp2.1\DotNetCoreWebApiTest.AssemblyInfo.cs
+D:\Coders Glory\test\Sample Templates\DotNetCoreWebApiTest\DotNetCoreWebApiTest\DotNetCoreWebApiTest\obj\Debug\netcoreapp2.1\DotNetCoreWebApiTest.RazorTargetAssemblyInfo.cache
+D:\Coders Glory\test\Sample Templates\DotNetCoreWebApiTest\DotNetCoreWebApiTest\DotNetCoreWebApiTest\obj\Debug\netcoreapp2.1\DotNetCoreWebApiTest.dll
+D:\Coders Glory\test\Sample Templates\DotNetCoreWebApiTest\DotNetCoreWebApiTest\DotNetCoreWebApiTest\obj\Debug\netcoreapp2.1\DotNetCoreWebApiTest.pdb
+D:\Coders Glory\test\Sample Templates\DotNetCoreWebApiTest\DotNetCoreWebApiTest\DotNetCoreWebApiTest\obj\Debug\netcoreapp2.1\DotNetCoreWebApiTest.csproj.CoreCompileInputs.cache

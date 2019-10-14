@@ -1,0 +1,36 @@
+C:\Users\jayanthal\Source\Repos\DotNetCoreWebApiTest\NUnitTestProject1\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Users\jayanthal\Source\Repos\DotNetCoreWebApiTest\NUnitTestProject1\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\Users\jayanthal\Source\Repos\DotNetCoreWebApiTest\NUnitTestProject1\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+C:\Users\jayanthal\Source\Repos\DotNetCoreWebApiTest\NUnitTestProject1\bin\Debug\netcoreapp2.1\Mono.Cecil.dll
+C:\Users\jayanthal\Source\Repos\DotNetCoreWebApiTest\NUnitTestProject1\bin\Debug\netcoreapp2.1\NUnitTestProject1.deps.json
+C:\Users\jayanthal\Source\Repos\DotNetCoreWebApiTest\NUnitTestProject1\bin\Debug\netcoreapp2.1\NUnitTestProject1.runtimeconfig.json
+C:\Users\jayanthal\Source\Repos\DotNetCoreWebApiTest\NUnitTestProject1\bin\Debug\netcoreapp2.1\NUnitTestProject1.runtimeconfig.dev.json
+C:\Users\jayanthal\Source\Repos\DotNetCoreWebApiTest\NUnitTestProject1\bin\Debug\netcoreapp2.1\NUnitTestProject1.dll
+C:\Users\jayanthal\Source\Repos\DotNetCoreWebApiTest\NUnitTestProject1\bin\Debug\netcoreapp2.1\NUnitTestProject1.pdb
+C:\Users\jayanthal\Source\Repos\DotNetCoreWebApiTest\NUnitTestProject1\bin\Debug\netcoreapp2.1\DotNetCoreWebApiTest.dll
+C:\Users\jayanthal\Source\Repos\DotNetCoreWebApiTest\NUnitTestProject1\bin\Debug\netcoreapp2.1\DotNetCoreWebApiTest.pdb
+C:\Users\jayanthal\Source\Repos\DotNetCoreWebApiTest\NUnitTestProject1\obj\Debug\netcoreapp2.1\NUnitTestProject1.csprojAssemblyReference.cache
+C:\Users\jayanthal\Source\Repos\DotNetCoreWebApiTest\NUnitTestProject1\obj\Debug\netcoreapp2.1\NUnitTestProject1.csproj.CoreCompileInputs.cache
+C:\Users\jayanthal\Source\Repos\DotNetCoreWebApiTest\NUnitTestProject1\obj\Debug\netcoreapp2.1\NUnitTestProject1.AssemblyInfoInputs.cache
+C:\Users\jayanthal\Source\Repos\DotNetCoreWebApiTest\NUnitTestProject1\obj\Debug\netcoreapp2.1\NUnitTestProject1.AssemblyInfo.cs
+C:\Users\jayanthal\Source\Repos\DotNetCoreWebApiTest\NUnitTestProject1\obj\Debug\netcoreapp2.1\NUnitTestProject1.csproj.CopyComplete
+C:\Users\jayanthal\Source\Repos\DotNetCoreWebApiTest\NUnitTestProject1\obj\Debug\netcoreapp2.1\NUnitTestProject1.dll
+C:\Users\jayanthal\Source\Repos\DotNetCoreWebApiTest\NUnitTestProject1\obj\Debug\netcoreapp2.1\NUnitTestProject1.pdb
+D:\Coders Glory\test\Sample Templates\DotNetCoreWebApiTest\DotNetCoreWebApiTest\NUnitTestProject1\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+D:\Coders Glory\test\Sample Templates\DotNetCoreWebApiTest\DotNetCoreWebApiTest\NUnitTestProject1\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+D:\Coders Glory\test\Sample Templates\DotNetCoreWebApiTest\DotNetCoreWebApiTest\NUnitTestProject1\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+D:\Coders Glory\test\Sample Templates\DotNetCoreWebApiTest\DotNetCoreWebApiTest\NUnitTestProject1\bin\Debug\netcoreapp2.1\Mono.Cecil.dll
+D:\Coders Glory\test\Sample Templates\DotNetCoreWebApiTest\DotNetCoreWebApiTest\NUnitTestProject1\bin\Debug\netcoreapp2.1\NUnitTestProject1.deps.json
+D:\Coders Glory\test\Sample Templates\DotNetCoreWebApiTest\DotNetCoreWebApiTest\NUnitTestProject1\bin\Debug\netcoreapp2.1\NUnitTestProject1.runtimeconfig.json
+D:\Coders Glory\test\Sample Templates\DotNetCoreWebApiTest\DotNetCoreWebApiTest\NUnitTestProject1\bin\Debug\netcoreapp2.1\NUnitTestProject1.runtimeconfig.dev.json
+D:\Coders Glory\test\Sample Templates\DotNetCoreWebApiTest\DotNetCoreWebApiTest\NUnitTestProject1\bin\Debug\netcoreapp2.1\NUnitTestProject1.dll
+D:\Coders Glory\test\Sample Templates\DotNetCoreWebApiTest\DotNetCoreWebApiTest\NUnitTestProject1\bin\Debug\netcoreapp2.1\NUnitTestProject1.pdb
+D:\Coders Glory\test\Sample Templates\DotNetCoreWebApiTest\DotNetCoreWebApiTest\NUnitTestProject1\bin\Debug\netcoreapp2.1\DotNetCoreWebApiTest.dll
+D:\Coders Glory\test\Sample Templates\DotNetCoreWebApiTest\DotNetCoreWebApiTest\NUnitTestProject1\bin\Debug\netcoreapp2.1\DotNetCoreWebApiTest.pdb
+D:\Coders Glory\test\Sample Templates\DotNetCoreWebApiTest\DotNetCoreWebApiTest\NUnitTestProject1\obj\Debug\netcoreapp2.1\NUnitTestProject1.csprojAssemblyReference.cache
+D:\Coders Glory\test\Sample Templates\DotNetCoreWebApiTest\DotNetCoreWebApiTest\NUnitTestProject1\obj\Debug\netcoreapp2.1\NUnitTestProject1.AssemblyInfoInputs.cache
+D:\Coders Glory\test\Sample Templates\DotNetCoreWebApiTest\DotNetCoreWebApiTest\NUnitTestProject1\obj\Debug\netcoreapp2.1\NUnitTestProject1.AssemblyInfo.cs
+D:\Coders Glory\test\Sample Templates\DotNetCoreWebApiTest\DotNetCoreWebApiTest\NUnitTestProject1\obj\Debug\netcoreapp2.1\NUnitTestProject1.csproj.CopyComplete
+D:\Coders Glory\test\Sample Templates\DotNetCoreWebApiTest\DotNetCoreWebApiTest\NUnitTestProject1\obj\Debug\netcoreapp2.1\NUnitTestProject1.dll
+D:\Coders Glory\test\Sample Templates\DotNetCoreWebApiTest\DotNetCoreWebApiTest\NUnitTestProject1\obj\Debug\netcoreapp2.1\NUnitTestProject1.pdb
+D:\Coders Glory\test\Sample Templates\DotNetCoreWebApiTest\DotNetCoreWebApiTest\NUnitTestProject1\obj\Debug\netcoreapp2.1\NUnitTestProject1.csproj.CoreCompileInputs.cache
