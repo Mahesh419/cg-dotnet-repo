@@ -5,7 +5,7 @@ phases:
       nodejs: 10
   pre_build:
     commands:
-      - echo `Restore dependencies`
+      - echo Restore dependencies
       - dotnet restore
       - dotnet clean
 
